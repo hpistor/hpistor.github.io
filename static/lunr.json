@@ -1,0 +1,20 @@
+[
+    {
+        "uri": "/book/Chapter 1",
+        "title": "Chapter 1",
+        "content": "\nThe role of Algorithms in Computing {#the-role-of-algorithms-in-computing}\n\nWhat is it?\n",
+        "tags": []
+    },
+    {
+        "uri": "/book/introduction",
+        "title": "Introduction",
+        "content": "\nDesigning and Analyzing Algorithms {#designing-and-analyzing-algorithms}\n\nChapter 1 {#chapter-1--chapter-1-dot-md}\n\nOverview of Algorithms and their place in modern computing systems\n\nChapter 2 {#chapter-2}\n\nFirst algorithms\n\n    Sorting a sequence of n numbers\n\nDetermining runtimes of algorithms\n\nChapter 3 {#chapter-3}\n\nDefines asymptotic notation\n\nMathamatic notation\n\nChapter 4 {#chapter-4}\n\nDivide and Conquer\n\nStrassens method for multipling matrices\n\nmaster method\n\nChapter 5 {#chapter-5}\n\nProbablistic analysis\n\n    Used to determine run time of algorithm with probability distribution\n\nRandomized algorithms\n\n    Enforce a probability distribution on inputs\n\n        org-html-publish-to-html\n\nTesting this once again {#testing-this-once-again}\n",
+        "tags": []
+    },
+    {
+        "uri": "/posts/software_engineering",
+        "title": "Software Engineering",
+        "content": "\nObject-Oriented Programming {#object-oriented-programming}\n\nEvery object has both state (data) and behaviour (operations on\n    data).\nEvery object has an interface and an implementation.\n    Interface are for other objects to interact with.\n    Implementations support the interface, and may not be accessible\n        to other objects.\n\nBasic UML Notation {#basic-uml-notation}\n\nThe class is denoted with 3 parts: The class name, its attributes, and\nits methods.\n",
+        "tags": []
+    }
+]

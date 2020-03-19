@@ -1,0 +1,8 @@
+#+SETUPFILE: ./hugo_setup.org
+#+HUGO_SECTION: book
+#+HUGO_SLUG: chapter-2
+#+TITLE:Chapter 2
+#+DATE: <2020-03-18 Wed>
+
+* [[file:insertion_sort.org][Insertion Sort]]
+A sequence of n numbers {a1, a2, a3, ... an}*

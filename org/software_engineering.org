@@ -1,0 +1,16 @@
+#+SETUPFILE: ./hugo_setup.org
+#+TITLE: Software Engineering
+#+AUTHOR: Derrick Chua, Jethro Kuan
+
+* Object-Oriented Programming
+- Every object has both /state/ (data) and /behaviour/ (operations on
+  data).
+- Every object has an /interface/ and an /implementation/.
+  - Interface are for other objects to interact with.
+  - Implementations support the interface, and may not be accessible
+    to other objects.
+
+** Basic UML Notation
+The class is denoted with 3 parts: The class name, its attributes, and
+its methods.
+

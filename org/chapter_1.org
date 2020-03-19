@@ -1,0 +1,7 @@
+#+SETUPFILE: ./hugo_setup.org
+#+HUGO_SECTION: book
+#+TITLE: Chapter 1
+#+DATE: <2020-03-18 Wed>
+
+* The role of Algorithms in Computing
+What is it

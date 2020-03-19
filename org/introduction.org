@@ -1,0 +1,24 @@
+#+SETUPFILE: ./hugo_setup.org
+#+HUGO_SECTION: book
+#+TITLE: Introduction
+#+DATE:  <2020-03-18 Wed>
+
+* Designing and Analyzing Algorithms
+** [[file:chapter_1.org][Chapter 1]]
+*** Overview of Algorithms and their place in modern computing systems
+** [[file:chapter_2.org][Chapter 2]]
+*** First algorithms
+**** Sorting a sequence of n numbers
+*** Determining runtimes of algorithms
+** Chapter 3
+*** Defines asymptotic notation
+*** Mathamatic notation
+** Chapter 4
+*** Divide and Conquer
+*** Strassens method for multipling matrices
+*** master method
+** Chapter 5
+*** Probablistic analysis
+**** Used to determine run time of algorithm with probability distribution
+*** Randomized algorithms
+**** Enforce a probability distribution on inputs
