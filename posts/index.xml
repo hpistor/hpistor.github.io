@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Hans&#39;s Braindump</title>
+    <link>https://hpistor.github.io/posts/</link>
+    <description>Recent content in Posts on Hans&#39;s Braindump</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://hpistor.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Software Engineering</title>
+      <link>https://hpistor.github.io/posts/software_engineering/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hpistor.github.io/posts/software_engineering/</guid>
+      <description>Object-Oriented Programming  Every object has both state (data) and behaviour (operations on data). Every object has an interface and an implementation.  Interface are for other objects to interact with. Implementations support the interface, and may not be accessible to other objects.    Basic UML Notation The class is denoted with 3 parts: The class name, its attributes, and its methods.</description>
+    </item>
+    
+  </channel>
+</rss>

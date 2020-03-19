@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hans&#39;s Braindump</title>
+    <link>https://hpistor.github.io/</link>
+    <description>Recent content on Hans&#39;s Braindump</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 18 Mar 2020 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://hpistor.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Chapter 1</title>
+      <link>https://hpistor.github.io/book/chapter-1/</link>
+      <pubDate>Wed, 18 Mar 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://hpistor.github.io/book/chapter-1/</guid>
+      <description>The role of Algorithms in Computing What is it?</description>
+    </item>
+    
+    <item>
+      <title>Chapter 1</title>
+      <link>https://hpistor.github.io/book/chapter_1/</link>
+      <pubDate>Wed, 18 Mar 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://hpistor.github.io/book/chapter_1/</guid>
+      <description>The role of Algorithms in Computing What is it</description>
+    </item>
+    
+    <item>
+      <title>Chapter 2</title>
+      <link>https://hpistor.github.io/book/chapter-2/</link>
+      <pubDate>Wed, 18 Mar 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://hpistor.github.io/book/chapter-2/</guid>
+      <description>Insertion Sort A sequence of n numbers {a1, a2, a3, &amp;hellip; an}*</description>
+    </item>
+    
+    <item>
+      <title>Insertion Sort</title>
+      <link>https://hpistor.github.io/book/insertion_sort/</link>
+      <pubDate>Wed, 18 Mar 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://hpistor.github.io/book/insertion_sort/</guid>
+      <description>Input: A sequence of n numbers {a1, a2, a3, &amp;hellip; an}
+  Output: a permutation of {a1, a2, a3, &amp;hellip; an} such that a1&amp;rsquo; &amp;lt; a2&amp;rsquo; &amp;lt; an&amp;rsquo;
+ How it works Basically the way most people sort a hand of playing cards. We start with an empty left hand and the the card face down. We remove one card at a time and insert it into the correct position of the hand.</description>
+    </item>
+    
+    <item>
+      <title>Introduction</title>
+      <link>https://hpistor.github.io/book/introduction/</link>
+      <pubDate>Wed, 18 Mar 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://hpistor.github.io/book/introduction/</guid>
+      <description>Designing and Analyzing Algorithms Chapter 1  Overview of Algorithms and their place in modern computing systems  Chapter 2  First algorithms  - Sorting a sequence of n numbers   Determining runtimes of algorithms  Chapter 3   Defines asymptotic notation
+  Mathamatic notation
+  Chapter 4   Divide and Conquer
+  Strassens method for multipling matrices
+  master method
+  Chapter 5  Probablistic analysis  - Used to determine run time of algorithm with probability distribution   Randomized algorithms  - Enforce a probability distribution on inputs  </description>
+    </item>
+    
+    <item>
+      <title>Software Engineering</title>
+      <link>https://hpistor.github.io/posts/software_engineering/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hpistor.github.io/posts/software_engineering/</guid>
+      <description>Object-Oriented Programming  Every object has both state (data) and behaviour (operations on data). Every object has an interface and an implementation.  Interface are for other objects to interact with. Implementations support the interface, and may not be accessible to other objects.    Basic UML Notation The class is denoted with 3 parts: The class name, its attributes, and its methods.</description>
+    </item>
+    
+  </channel>
+</rss>
