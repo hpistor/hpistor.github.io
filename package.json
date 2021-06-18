@@ -16,7 +16,7 @@
     "gray-matter": "^4.0.2",
     "postcss-cli": "^7.1.0",
     "remove-markdown": "^0.3.0",
-    "striptags": "^3.1.1",
+    "striptags": "^3.2.0",
     "tailwindcss": "^1.2.0",
     "toml": "^3.0.0"
   },
